@@ -1,9 +1,9 @@
 # adoption-widget
 a widget for word adoptees to use to advertise their love of their adopted word (and Wordnik)
 
-##spec
+## spec
 
-###purpose
+### purpose
 
 The adoption widget should allow a word-adopted to add a banner to their blog or site that:
 
@@ -15,7 +15,7 @@ The widget should be:
 * easy to create
 * easy to install
 
-###user flow: 
+### user flow: 
 
 * user enters adopted word
 * widget checks Wordnik adoption DB
@@ -24,7 +24,7 @@ The widget should be:
 * widget creates link to adopted word
 * widget saves HTML of widget for user to copy/paste
 
-###design
+### design
 
 Widget should:
 
@@ -32,7 +32,7 @@ Widget should:
 * include the Wordnik logo
 * include text about the adoption, with links "[USERNAME] has adopted the word [WORD] at Wordnik!"
 
-###process
+### process
 
 * create sample designs : widget, widget creation page
 * create sample HTML/CSS
